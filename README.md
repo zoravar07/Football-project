@@ -1,5 +1,7 @@
 # ⚽ Premier League ML
 
+**Live app: https://premier-league-ml.streamlit.app**
+
 Predicting Premier League results using 20 years of real match data, with the
 bookmakers as the benchmark. There's also a team playing-style analysis and an
 interactive Streamlit dashboard.
